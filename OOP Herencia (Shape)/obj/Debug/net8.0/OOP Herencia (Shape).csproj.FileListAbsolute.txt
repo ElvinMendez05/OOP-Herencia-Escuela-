@@ -1,0 +1,14 @@
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\bin\Debug\net8.0\OOP Herencia (Shape).exe
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\bin\Debug\net8.0\OOP Herencia (Shape).deps.json
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\bin\Debug\net8.0\OOP Herencia (Shape).runtimeconfig.json
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\bin\Debug\net8.0\OOP Herencia (Shape).dll
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\bin\Debug\net8.0\OOP Herencia (Shape).pdb
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).AssemblyInfoInputs.cache
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).AssemblyInfo.cs
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).csproj.CoreCompileInputs.cache
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).dll
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\refint\OOP Herencia (Shape).dll
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).pdb
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\OOP Herencia (Shape).genruntimeconfig.cache
+C:\code\Sharp(C#)\App(01)\OOP Herencia (Shape)\OOP Herencia (Shape)\obj\Debug\net8.0\ref\OOP Herencia (Shape).dll
