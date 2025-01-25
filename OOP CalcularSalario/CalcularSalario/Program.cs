@@ -20,7 +20,7 @@ namespace CalcularSalario
 
             var empleadoAdministrativo = new EmpleadoAdministrativo("Ricardo", "Castro", "Masculino", 3000.00M, 1000.00M);
             Console.WriteLine(empleadoAdministrativo);
-            Console.WriteLine($"Tu salario es de: {empleadoAdministrativo.CalcularSalarioMensual()}");
+            Console.WriteLine($"Tu salario es de: {empleadoAdministrativo.CalcularSalarioMensual()}"); 
             Console.WriteLine("\n");
         }
     }
