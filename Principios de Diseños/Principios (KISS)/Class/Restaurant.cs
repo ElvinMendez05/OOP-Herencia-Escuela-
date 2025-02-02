@@ -13,11 +13,10 @@
             
             if (tipsPercentage.HasValue) 
             {
-                total = total + total * (tipsPercentage.Value / 100);
+                return total += total * (tipsPercentage.Value / 100);
             } else {
-                total = total + total * 0.10m;
+                return total += total * 0.10m;
             }
-            return total;
         }   
     }
 }
