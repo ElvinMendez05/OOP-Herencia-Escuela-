@@ -6,17 +6,18 @@
         {
             decimal total = 0;
 
-            for (int i = 0; i < price.Length; i++)
+            foreach (decimal prices in price)
             {
-                total = total + price[i];
-            }  
-            
+                total += prices;
+            }
+
             if (tipsPercentage.HasValue) 
             {
-                return total += total * (tipsPercentage.Value / 100);
+                total += total * (tipsPercentage.Value / 100);
             } else {
-                return total += total * 0.10m;
+                total += total * 0.10m;
             }
+            return total;
         }   
     }
 }
